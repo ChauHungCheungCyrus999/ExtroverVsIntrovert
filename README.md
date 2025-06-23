@@ -16,8 +16,6 @@ The project is intended for learning and demonstration purposes.
 
 - [Project Structure](#project-structure)
 - [Dataset](#dataset)
-- [Installation & Requirements](#installation--requirements)
-- [Usage](#usage)
 - [Results](#results)
 - [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
